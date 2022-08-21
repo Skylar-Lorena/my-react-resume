@@ -1,0 +1,166 @@
+{
+  "main": {
+    "name": "Lorenah M",
+    "occupation": "Software Engineer",
+    "description": "Results-oriented with more than 6 years of experience in sales and. Well-versed in promoting object-oriented approaches to real-time software development and product marketing. Analytical and detail-oriented with deep knowledge in latest industry trends and advancements",
+    "image": "profilepic.jpg",
+    "bio": "I build unique custom apps & websites that convert visitors into customers who help businesses and people grow.When I'm not coding, I'm probably singing at my shows, advocating for overrall health, writing poetry, watching basketball, in the gym or goofing around on something inspired by Pablo Picasso.",
+    "contactmessage": "I'm always working on something, and often too excited about it to stop and update my portfolio. Feel free to reach out and see what I'm up to now. I also have major skills in sales, product marketing, vocal, and art design. If you have a project or creative need that I can help with, I am that guy! My specialty is full Android strategy, design and development. My interests, however, extend beyond the web and I love giving back to the community, helping people with brand promotion, art design and marketing.",
+    "email": "lorayne911@gmail.com",
+    "phone": "+254703668690",
+    "address": {
+      "street": "Boma Road",
+      "city": "Nairobi County",
+      "state": "Kenya",
+      "zip": "254"
+    },
+    "website": "https://medium.com/@skylar_lorena",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/skylarlorenah",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/skylar_lorena",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/lorenah-m-859883167/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.coresume-websitem/skylar_lorena",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/Skylar-Lorena",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Java, Ruby, Angular, React, Android, jQuery, JavaScript, Sinatra",
+    "education": [
+      {
+        "school": "Moringa School",
+        "degree": "Software Engineering",
+        "graduated": "March 2021",
+        "description": "HTML, CSS, JavaScript, jQuery, Angular, Java Spark, Android"
+      },
+
+        {
+          "school": "Mema Secondary School",
+          "degree": "KCSE",
+          "graduated": "2012",
+          "description": "KCSE, B-"
+        },
+      {
+        "school": "Clanne Academy",
+        "degree": "KCPE",
+        "graduated": "2008",
+        "description": "KCPE, A"
+      }
+    ],
+    "work": [
+      {
+        "company": "Moringa School",
+        "title": "Software Development Technical Mentor",
+        "years": "Feb 2022 - Present",
+        "description": "Provide guidance, advice, feedback, and support to the students, serving variously as role model, teacher, counselor, advisor, sponsor, advocate, and ally, depending on the specific goals and objectives negotiated with the institution and students."
+      },
+      {
+        "company": "NewLeaf Technologies",
+        "title": "Software Engineer",
+        "years": "Feb 2022 - Present",
+        "description": "Analyzing and modifying existing software as well as designing, constructing and testing end-user applications that meet user needs — all through software programming languages."
+      },
+    
+      {
+        "company": "My Movies Africa",
+        "title": "Intern developer",
+        "years": "Jan 2021 - March 2021",
+        "description": "Expound the project's specifications defined by the organization and then turn it into a tangible application."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "Java",
+        "level": "65%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "65%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "Ruby",
+        "level": "55%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "65%"
+      },
+      {
+        "name": "Android",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "My Movies Africa",
+        "category": "Android digital cinema extension providing Kenyan and African movies on demand.",
+        "image": "canadian-wanderlust.png",
+        "url": "https://www.mymovies.africa/"
+      },
+      {
+        "title": "Skoolor",
+        "category": "This app is developed for NTSA to report traffic violators, monitor them, approve complaints and see how many complaints are registered for you(driver/owner).",
+        "image": "fury-fighting-gear.png",
+        "url": "https://github.com/Skylar-Lorena/Skoolor"
+      },
+      {
+        "title": "Skylar's-Pizzeria",
+        "category": "An interactive pizza ordering application that allows the user to select from multiple pizza options, including: size, crust, cheese, meat, and veggies.",
+        "image": "original-thai-food.png",
+        "url": "https://skylar-lorena.github.io/PIZZERIA-D-SKYLAR/"
+      },
+      {
+        "title": "My Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.png",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Great developer, has client's needs at heart and puts them first",
+        "user": "QS. Emmanuel O."
+      },
+      {
+        "text": "I thoroughly enjoyed my time working with her, and came to know Lorenah as a truly valuable asset to our team.",
+        "user": "Mathew Moira"
+      }
+    ]
+  }
+}
